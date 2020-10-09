@@ -1,0 +1,80 @@
+#paihang{
+	width: 100%;
+	min-width: 1200px;
+	height: 632px;
+	padding-top: 60px;
+	background: url(../img/background.png) repeat-x 0 0;
+	text-align: center;
+}
+#paihang>p{
+	font-size: 30px;
+	margin: 0 60px;
+	font-weight: initial;
+}
+.paihang_in{
+	width: 1200px;
+	margin: 50px auto;
+	list-style: none;
+}
+.paihang_in>li{
+	width: 216px;
+	height: 432px;
+	float: left;
+	margin-left: 20px;
+	
+}
+.paihang_in>li>div{
+	color: #fff;
+	width: 216px;
+	height: 402px;
+	opacity: 0.9;
+	text-align: center;
+	padding-top: 30px;
+}
+.title_think{
+	font-size: 20px;
+	font-weight: 100;
+}
+.title_bord{
+	font-size: 30px;
+	font-weight: 500;
+}
+.transfer{
+	width: 50px;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	margin:20px auto;
+}
+.transfer>.line{
+	width: 36px;
+	height: 2px;
+	margin: 0 auto;
+	background: #fff;
+}
+.transfer>.bofang{
+	width: 50px;
+	display: none;
+}
+.ol{
+	list-style: decimal inside;
+	text-align: left;
+	width: 186px;
+	margin-left: 30px;
+	font-size: 15px;
+	font-weight: 100;
+}
+.ol>li{
+	height: 80px;
+}
+.ol>li>p{
+	text-indent: 15px;
+}
+
+#footer{
+	width: 100%;
+}
+#footer>.footerImg{
+	width: 100%;
+	min-width: 1200px;
+}
